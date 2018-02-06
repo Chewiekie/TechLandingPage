@@ -1,7 +1,7 @@
 # TechLandingPage
 Landing page for technology sites
 
-TechLandingPage is a HTML free template to create a Technology Landing Page. Made in HTML5 and CSS3 with a responsive design and incluye Google Maps Api 3.
+TechLandingPage is a HTML free template to create a Technology Landing Page. Made in HTML5 and CSS3 with a responsive design and include Google Maps Api 3.
 
 ![TechLandingPage](https://raw.githubusercontent.com/gndx/TechLandingPage/master/screenshot.png)
 
